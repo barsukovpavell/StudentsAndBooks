@@ -2,7 +2,7 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-untitled.iml
+*.iml
 ### Eclipse ###
 .apt_generated
 .classpath

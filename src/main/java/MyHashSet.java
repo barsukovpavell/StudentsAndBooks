@@ -1,5 +1,3 @@
-package studentsAndBooks2;
-
 import java.util.LinkedList;
 
 public class MyHashSet<E> {

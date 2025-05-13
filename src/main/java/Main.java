@@ -1,5 +1,3 @@
-package studentsAndBooks2;
-
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;

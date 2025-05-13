@@ -1,5 +1,3 @@
-package studentsAndBooks2;
-
 import java.util.Objects;
 
 public class Book {
